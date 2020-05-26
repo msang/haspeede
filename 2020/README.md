@@ -1,11 +1,10 @@
-# haspeede2018
-Official repository of the Hate Speech Detection Task at Evalita 2018
+# haspeede2020
+Repository of the [2nd Hate Speech Detection Task](http://www.di.unito.it/~tutreeb/haspeede-evalita20/index.html#) at [Evalita 2020](http://www.evalita.it/2020).
 
-** 03 September 2018 **  
-Test sets available filling in [this form](https://goo.gl/forms/s9gT6I5Xaa61yK993); an email notification will be sent with the links to the files.  
-As the training sets have been removed from the public repository at this stage, this will allow you to get the training data as well.
+In this task edition, the dataset will be released with a password-protected zip archive. In order to get the password, a form will be made available in this page on May 29th, 2020.
+
+This folder includes the dataset and the task guidelines to participants.
+
+For any question or problem, please start a topic on our googlegroups mailing list: https://groups.google.com/d/forum/haspeede-evalita2020 
 
 
-
-
-For more information on the task, see also the guidelines available in this repository, and the [web page](http://www.di.unito.it/~tutreeb/haspeede-evalita18/index.html). You can also join our Google group at [haspeede-evalita2018@googlegroups.com](https://groups.google.com/forum/embed/?place=forum/haspeede-evalita2018#!forum/haspeede-evalita2018)
