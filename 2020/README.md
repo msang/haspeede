@@ -3,8 +3,6 @@ Repository of the [2nd Hate Speech Detection Task](http://www.di.unito.it/~tutre
 
 In this task edition, the dataset will be released with a password-protected zip archive. In order to get the password, please fill in this [form](https://forms.gle/BJQy6ciiXXtPCCJdA).
 
-This folder will include the dataset and the task guidelines to participants.
-
 For any question or problem, please start a topic on our googlegroups mailing list: https://groups.google.com/d/forum/haspeede-evalita2020 
 
 
