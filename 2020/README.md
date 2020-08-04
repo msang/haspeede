@@ -11,7 +11,7 @@ An updated version of the dataset for TASK A and B has been ulpoaded on June 1st
 **NEW!** The task schedule has been updated and the test set will be released on September 18th. See also the task main page or the guidelines for the important dates.
 
 
-:warning: :warning: :warning: Please, remind that the Twitter dataset from HaSpeeDe 2018 has already been included as part of the HaSpeeDe 2020 new training set.
+:warning: :warning: :warning: Please, remind that the Twitter dataset from HaSpeeDe 2018 has been included as part of the HaSpeeDe 2020 new training set.
 
 
 For any question or problem, please start a topic on our googlegroups mailing list: https://groups.google.com/d/forum/haspeede-evalita2020 
