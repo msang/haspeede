@@ -3,10 +3,10 @@ Repository of the [2nd Hate Speech Detection Task](http://www.di.unito.it/~tutre
 
 In this task edition, the dataset will be released with a password-protected zip archive. In order to get the password, please fill in this [form](https://forms.gle/BJQy6ciiXXtPCCJdA).
 
-The zip file includes the dataset for Tasks A and B in a tsv file, and the one for task C in a txt file.
+The zip files include the development and test set for Tasks A and B in a TSV file, and the ones for Task C in a TXT file.
 
 
-**NEW!** The task schedule has been updated and the **test set** will be released on **September 18th**. See also the task main page or the guidelines available in this repository for the important dates.
+**18/09/2020** The test sets for Tasks A, B and C have been released.
 
 
 :warning: :warning: :warning: Please, remind that the Twitter dataset from HaSpeeDe 2018 has been included as part of the HaSpeeDe 2020 new training set.
