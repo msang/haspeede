@@ -6,7 +6,7 @@ In this task edition, the dataset will be released with a password-protected zip
 The zip files include the development and test set for Tasks A and B in a TSV file, and the ones for Task C in a TXT file.
 
 
-**18/09/2020** The test sets for Tasks A, B and C have been released. The password is the same as the dev set, there is no need to fill in the form twice.
+**18/09/2020** The **test sets** for Tasks A, B and C have been **released**. The password is the same as the dev set, there is no need to fill in the form twice.
 Please refer to the tak guidelines for details on the test sets and submission instructions.
 
 
