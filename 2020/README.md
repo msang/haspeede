@@ -10,6 +10,9 @@ The zip files include the development and test sets for Tasks A and B in a TSV f
 Please refer to the tak guidelines for details on the test sets and submission instructions.
 
 
+Should you have any problem with the password, do not hesitate to contact the task organizers.
+
+
 
 :warning: :warning: :warning: Please remind that the Twitter dataset from HaSpeeDe 2018 has been included as part of the HaSpeeDe 2020 new training set.
 
