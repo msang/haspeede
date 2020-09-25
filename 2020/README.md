@@ -7,7 +7,7 @@ The zip files include the development and test sets for Tasks A and B in a TSV f
 
 
 **18/09/2020** The **test sets** for Tasks A, B and C have been **released**. The password is the same as the dev set, there is no need to fill in the form twice.
-Please refer to the tak guidelines for details on the test sets and submission instructions. Remind, however, that regardless of the task, submissions should be sent for both test sets we made available, i.e.the ones for the in-domain and the out-of-domain data.
+Please refer to the task guidelines for details on the test sets and submission instructions. Remind, however, that regardless of the task, submissions should be sent for both test sets we made available, i.e. the ones for the in-domain and the out-of-domain data.
 
 
 Should you have any problem with the password, do not hesitate to contact the task organizers.
