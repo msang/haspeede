@@ -19,5 +19,5 @@ Should you have any problem with the password, do not hesitate to contact the ta
 :warning: :warning: :warning: Please remind that the Twitter dataset from HaSpeeDe 2018 has been included as part of the HaSpeeDe 2020 new training set.
 
 
-For any question, please start a topic on our googlegroups mailing list: https://groups.google.com/d/forum/haspeede-evalita2020 
+For any question, start a topic on our googlegroups mailing list: https://groups.google.com/d/forum/haspeede-evalita2020 
 
