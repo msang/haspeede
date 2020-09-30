@@ -5,6 +5,8 @@ In this task edition, the dataset will be released with a password-protected zip
 
 The zip files include the development and test sets for Tasks A and B in a TSV file, and the ones for Task C in a TXT file.
 
+**30/09/2020** The **labeled test sets** have been made available, along with the evaluation script and the baselines of task A and B for both domains. 
+
 
 **18/09/2020** The **test sets** for Tasks A, B and C have been **released**. The password is the same as the dev set, there is no need to fill in the form twice.
 Please refer to the task guidelines for details on the test sets and submission instructions. Remind, however, that regardless of the task, submissions should be sent for both test sets we made available, i.e. the ones for the in-domain and the out-of-domain data.
