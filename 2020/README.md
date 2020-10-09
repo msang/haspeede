@@ -25,7 +25,7 @@ If you use the dataset for your work, please cite the following:
 
 ~~~
 @InProceedings{haspeede2,
-author = {Sanguinetti, Manuela and Comandini, Gloria, and Di Nuovo, Elisa and Frenda, Simona and Stranisci, Marco and Bosco, Cristina and Caselli, Tommaso and Patti, Viviana and Russo, Irene},
+author = {Sanguinetti, Manuela and Comandini, Gloria and Di Nuovo, Elisa and Frenda, Simona and Stranisci, Marco and Bosco, Cristina and Caselli, Tommaso and Patti, Viviana and Russo, Irene},
 title = {Overview of the EVALITA 2020 Second Hate Speech Detection Task (HaSpeeDe 2)},
 booktitle = {{Proceedings of the 7th evaluation campaign of Natural Language Processing and Speech tools for Italian (EVALITA 2020)}},
 editor = {Basile, Valerio and Croce, Danilo and Di Maro, Maria and Passaro, Lucia C.},
