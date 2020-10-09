@@ -1,4 +1,4 @@
-# haspeede2018
+# haspeede
 Official repository of the Hate Speech Detection Task at Evalita 2018
 
 ** 03 September 2018 **  
